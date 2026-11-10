@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trailblaze-scout": {
+      "type": "http",
+      "url": "https://mcp.trailblaze.so/mcp"
+    }
+  }
+}

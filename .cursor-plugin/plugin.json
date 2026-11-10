@@ -1,0 +1,14 @@
+{
+  "name": "trailblaze-scout",
+  "displayName": "Trailblaze Scout",
+  "version": "0.1.0",
+  "description": "Scout finds and introduces the right alumni and connections from your Trailblaze network.",
+  "author": {
+    "name": "Trailblaize",
+    "email": "support@trailblaize.net"
+  },
+  "homepage": "https://www.trailblaize.net",
+  "repository": "https://github.com/Trailblaizedevelopment/trailblaze-scout-cursor-plugin",
+  "logo": "assets/logo.png",
+  "mcpServers": "./mcp.json"
+}
